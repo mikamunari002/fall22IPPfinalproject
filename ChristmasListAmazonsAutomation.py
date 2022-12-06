@@ -3,8 +3,8 @@ from selenium.webdriver.common.by import By
 
 import time
 
-email = "mikamunari002@gmail.com"
-password =  "FastBreak!"
+email = ######enter your email and password if you have
+password =  #####enter your email and password if you have
 wishList = ["socks"] ##Create a list of items that we want to order
 
 
