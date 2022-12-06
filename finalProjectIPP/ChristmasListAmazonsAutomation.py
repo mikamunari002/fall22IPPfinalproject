@@ -6,7 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 
 email = "mikamunari002@gmail.com"
-password =  "FastBreak!"
+password =  ###########
 wishList = ["backpack", "scooter"]
 #Amazon Navigation 
 ##Sign into Amazon Prime Account 
