@@ -1,0 +1,29 @@
+# Status Report
+
+#### Your name
+
+#Mika Munari
+
+#### Your section leader's name
+
+##None
+
+#### Project title
+
+##AmazonChristmasAutomation
+
+***
+
+Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
+
+#### What have you done for your project so far?
+
+##Switched my project to selenium, so looked over that library and what can be done for webdriver. All that was done up until that point was creating code navigation to amazon, sign on, items cart adds, and procession to chechout.
+
+#### What have you not done for your project yet?
+
+#Item selection is the only hangup that I have right now because it's a dynamic webelement, I'm not quite sure how to go about that for each seaarch.
+
+#### What problems, if any, have you encountered?
+
+##What I explained above about dynamic web elements, I'm going to have to do some reading on that. I'll possibly just try and figure out hwo to just select the first item of the page each time, Also having some troubles some times as I iterate of the lists of items that I want to add to cart.'
