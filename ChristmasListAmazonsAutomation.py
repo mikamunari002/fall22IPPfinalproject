@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 import time
 
 email = "mikamunari002@gmail.com"
-password =  "FastBreak!"
+password =  #######
 wishList = ["white elephant gifts", "lamp"] ##Create a list of items that we want to order
 
 
